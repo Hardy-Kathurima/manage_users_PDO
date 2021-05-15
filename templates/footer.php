@@ -1,5 +1,5 @@
 		
-<div class="badge-light p-3 text-center mt-3">
+<div class=" p-3 text-center mt-5">
 	<footer>  &copy; copyright <?php echo '2015' . ' - ' . date('Y'); ?>  Hardy-Dev All Rights Reserved</footer>
 </div>
 
